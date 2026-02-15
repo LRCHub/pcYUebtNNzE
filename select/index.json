@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "どりーみんチュチュ",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2026-02-15T07:46:27.500430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_どりーみんチュチュ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_どりーみんチュチュ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ",
+      "artist": "emon(Tes.) feat. 巡音ルカ",
+      "has_synced": false,
+      "path": "select/03_どりーみんチュチュ_emon(Tes.)_feat._巡音ルカ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ",
+      "has_synced": true,
+      "path": "select/04_どりーみんチュチュ_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_どりーみんチュチュ_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ",
+      "artist": "emon feat. 巡音ルカ",
+      "has_synced": false,
+      "path": "select/06_どりーみんチュチュ_emon_feat._巡音ルカ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ",
+      "artist": "emon feat. 巡音ルカ",
+      "has_synced": true,
+      "path": "select/07_どりーみんチュチュ_emon_feat._巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ (feat. 花里みのり",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/08_どりーみんチュチュ_(feat._花里みのり_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ",
+      "artist": "emon",
+      "has_synced": true,
+      "path": "select/09_どりーみんチュチュ_emon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 &...",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/10_どりーみんチュチュ_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&..._MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ",
+      "artist": "神田沙也加",
+      "has_synced": true,
+      "path": "select/11_どりーみんチュチュ_神田沙也加.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "どりーみんチュチュ (feat. Hanasato Minori & Kiritani Haruka & Momoi Airi & Hinomori Shizuku & Megurine Luka)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/12_どりーみんチュチュ_(feat._Hanasato_Minori_&_Kiritani_Haruka_&_Momoi_Airi_&_Hinomori_Shizu_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どりーみんチュチュ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_どりーみんチュチュ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
